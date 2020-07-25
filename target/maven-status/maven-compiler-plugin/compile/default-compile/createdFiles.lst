@@ -1,0 +1,17 @@
+com/bcgdv/wealthmgmt/data/mapper/StrategyMapper.class
+com/bcgdv/wealthmgmt/gateway/model/CustomerFinancialPortfolio$CustomerFinancialPortfolioBuilder.class
+com/bcgdv/wealthmgmt/gateway/FinanicalPotfolioServiceGateway.class
+com/bcgdv/wealthmgmt/config/FpsPropertiesConfig.class
+com/bcgdv/wealthmgmt/WealthmgmtApplication.class
+com/bcgdv/wealthmgmt/common/Utils.class
+com/bcgdv/wealthmgmt/scheduler/vo/CustomerPortfolioVO.class
+com/bcgdv/wealthmgmt/scheduler/CustomerPortfolioBalancingScheduler.class
+com/bcgdv/wealthmgmt/model/Customer.class
+com/bcgdv/wealthmgmt/config/RestClientConfig.class
+com/bcgdv/wealthmgmt/model/Strategy$StrategyBuilder.class
+com/bcgdv/wealthmgmt/model/Strategy.class
+com/bcgdv/wealthmgmt/service/ParserService.class
+com/bcgdv/wealthmgmt/data/mapper/CustomerMapper.class
+com/bcgdv/wealthmgmt/model/Customer$CustomerBuilder.class
+com/bcgdv/wealthmgmt/gateway/model/CustomerFinancialPortfolio.class
+com/bcgdv/wealthmgmt/data/parser/AbstractCsvParser.class
